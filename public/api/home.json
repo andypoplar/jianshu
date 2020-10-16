@@ -1,0 +1,60 @@
+{
+  "status": "0",
+  "data": {
+    "articleList": [
+      {
+        "id": 1,
+        "title": "胡1歌",
+        "desc": "我的抖音大号已经积累了两万粉丝，并且稳定增长中，同时我也开了小号，准备做另一个方向。本以为靠着大号的经验，能快速做起来，但现实给了我狠狠的一巴掌...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/2967366-871bfc1fa34f3ad8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 2,
+        "title": "胡2歌",
+        "desc": "我的抖音大号已经积累了两万粉丝，并且稳定增长中，同时我也开了小号，准备做另一个方向。本以为靠着大号的经验，能快速做起来，但现实给了我狠狠的一巴掌...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/2967366-871bfc1fa34f3ad8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 3,
+        "title": "胡3歌",
+        "desc": "我的抖音大号已经积累了两万粉丝，并且稳定增长中，同时我也开了小号，准备做另一个方向。本以为靠着大号的经验，能快速做起来，但现实给了我狠狠的一巴掌...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/2967366-871bfc1fa34f3ad8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "imgUrl": "https: //cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https: //cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https: //cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      }
+    ],
+    "writterList": [
+      {
+        "id": 1,
+        "author": "lili1",
+        "desc": "asd1",
+        "imgUrl": "https://upload.jianshu.io/users/upload_avatars/9988193/fc26c109-1ae6-4327-a298-2def343e9cd8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+      },
+      {
+        "id": 2,
+        "author": "lili2",
+        "desc": "asd2",
+        "imgUrl": "https://upload.jianshu.io/users/upload_avatars/9988193/fc26c109-1ae6-4327-a298-2def343e9cd8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+      },
+      {
+        "id": 3,
+        "author": "lili3",
+        "desc": "asd3",
+        "imgUrl": "https://upload.jianshu.io/users/upload_avatars/9988193/fc26c109-1ae6-4327-a298-2def343e9cd8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+      }
+    ]
+  },
+  "message": "success"
+}
